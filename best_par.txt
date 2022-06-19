@@ -1,0 +1,26 @@
+###############################################################################
+#                                                                             #
+# Swat_Edit (Swat Parameters Editor 2022) Version                             #
+# Developed by VUTHY SAY                                                      #
+# Email: vuthy.say.stg@gmail.com or vuthy.say.stg@mail.ugm.ac.id              #
+#                                                                             #
+###############################################################################
+D:\\Work\\ArcSWAT\\Sen
+r__CN2.mgt                    -0.102500        
+r__SOL_ZMX.sol                0.0
+v__SOL_K().sol                230.000000 
+v__SURLAG.bsn                 23.880251
+v__ALPHA_BF.gw                0.355000            
+v__GW_DELAY.gw                467.500000          
+v__GWQMN.gw                   4475.000000         
+v__ESCO.hru                   0.435000                    
+v__REVAPMN.gw                 455.000000          
+v__GW_REVAP.gw                0.197300            
+v__RCHRG_DP.gw                0.385000            
+v__SLSUBBSN.hru               41.500000           
+v__CH_K2.rte                  452.500000          
+v__CH_S2.rte                  0.965035            
+v__CH_N2.rte                  0.199500            
+v__EPCO.hru                   0.125000            
+r__SOL_AWC().sol              0.072500                     
+r__SOL_Z().sol                -0.002500
